@@ -5,4 +5,6 @@
 >iii. clearing search box
 >iv. also clearing whole div after a search and also remove previous results
 >v.
-3.
+3.adding a event lister to search field for when typing on enter button search will also initiate
+4.dynamically loading other data like, model name and info and pic on the web page
+5.adding a modal in the dynamic page and when clicking on modal it will show various phone information dynamically.
