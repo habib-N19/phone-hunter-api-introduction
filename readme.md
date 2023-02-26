@@ -1,0 +1,1 @@
+This project was created as a learning path of api in programming hero web dev course. This was the first project I've done using api and making dynamically. 
