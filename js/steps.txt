@@ -1,0 +1,8 @@
+1.loadPhones => function fetch api url and collect information based on search keyword
+2.displayPhones => function shows the fetch data on the html screen
+>i.catching error for not getting any result and show it to user
+>ii.only showing 20 result at a time
+>iii. clearing search box
+>iv. also clearing whole div after a search and also remove previous results
+>v.
+3.
